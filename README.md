@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently learning embedded Linux
-- 👯 I’m looking for collaborators for my [bash4all](https://github.com/tpanj/bash4all)
+- 👀 I’m currently interested in embedded Linux
+- 👯 I’m looking for collaborators or help for [bash4all](https://github.com/tpanj/bash4all)
 <!--
 **tpanj/tpanj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
